@@ -1,0 +1,12 @@
+.disable-content {
+    pointer-events: none;
+    opacity: 0.1;
+}
+
+img.ajax-loader {
+    position: absolute;
+    left: 50%;
+    /*top: 50%;*/
+    margin-left: -136px; /* -1 * image width / 2 */
+    margin-top: 200px; /* -1 * image height / 2 */
+}
