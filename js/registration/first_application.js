@@ -11,7 +11,7 @@ var FirstApplication = {
         $('img.ajax-loader').hide();
     },
     resetFields: function (formObj) {
-        formObj.find('input[type="text"], input[type="email"], select, textarea').val('');
+        formObj.find('input[type="text"], input[type="email"], input[type="number"], select, textarea').val('');
     },
     loopWarnings: function(data){
         for(var key in data.warnings)
@@ -45,6 +45,7 @@ var FirstApplication = {
                     FirstApplication.enableContent();
                     FirstApplication.resetFields(formObj);
                 }else if(!data.success){
+                    console.log(data.type);
                     if(data.type == 'warnings'){
                         // show the warnings in a pnotify
                         FirstApplication.loopWarnings(data);
@@ -55,6 +56,7 @@ var FirstApplication = {
                             text: data.message,
                             type: data.type
                         });
+                        FirstApplication.enableContent();
                     }
                 }
             }

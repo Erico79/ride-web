@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0381e631-9e71-4a7e-a28b-34b3c6ed2c9a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Thumbs.db" afterPath="$PROJECT_DIR$/images/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/arr.png" afterPath="$PROJECT_DIR$/images/arr.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner1.jpg" afterPath="$PROJECT_DIR$/images/banner1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner2.jpg" afterPath="$PROJECT_DIR$/images/banner2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner3.jpg" afterPath="$PROJECT_DIR$/images/banner3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner4.jpg" afterPath="$PROJECT_DIR$/images/banner4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog1.jpeg" afterPath="$PROJECT_DIR$/images/blog1.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog2.jpg" afterPath="$PROJECT_DIR$/images/blog2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog3.jpg" afterPath="$PROJECT_DIR$/images/blog3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/closew.gif" afterPath="$PROJECT_DIR$/images/closew.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1.jpg" afterPath="$PROJECT_DIR$/images/gallery1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery2.jpg" afterPath="$PROJECT_DIR$/images/gallery2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery3.jpg" afterPath="$PROJECT_DIR$/images/gallery3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery4.jpeg" afterPath="$PROJECT_DIR$/images/gallery4.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery5.jpg" afterPath="$PROJECT_DIR$/images/gallery5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery6.jpeg" afterPath="$PROJECT_DIR$/images/gallery6.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery7.jpg" afterPath="$PROJECT_DIR$/images/gallery7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/left-arrow.png" afterPath="$PROJECT_DIR$/images/left-arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/left.jpg" afterPath="$PROJECT_DIR$/images/left.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/leftw.gif" afterPath="$PROJECT_DIR$/images/leftw.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/price.jpg" afterPath="$PROJECT_DIR$/images/price.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/ride/loading.gif" afterPath="$PROJECT_DIR$/images/ride/loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/ride/mortocycle.jpg" afterPath="$PROJECT_DIR$/images/ride/mortocycle.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/right-arrow.png" afterPath="$PROJECT_DIR$/images/right-arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/rightw.gif" afterPath="$PROJECT_DIR$/images/rightw.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/t1.jpg" afterPath="$PROJECT_DIR$/images/t1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/t2.jpg" afterPath="$PROJECT_DIR$/images/t2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/t3.jpg" afterPath="$PROJECT_DIR$/images/t3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/t4.jpg" afterPath="$PROJECT_DIR$/images/t4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/build-tools/compiler-latest.zip" afterPath="$PROJECT_DIR$/pnotify/build-tools/compiler-latest.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/build-tools/compiler.jar" afterPath="$PROJECT_DIR$/pnotify/build-tools/compiler.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/desktop/error.png" afterPath="$PROJECT_DIR$/pnotify/includes/desktop/error.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/desktop/info.png" afterPath="$PROJECT_DIR$/pnotify/includes/desktop/info.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/desktop/notice.png" afterPath="$PROJECT_DIR$/pnotify/includes/desktop/notice.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/desktop/original/error.png" afterPath="$PROJECT_DIR$/pnotify/includes/desktop/original/error.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/desktop/original/info.png" afterPath="$PROJECT_DIR$/pnotify/includes/desktop/original/info.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/desktop/original/notice.png" afterPath="$PROJECT_DIR$/pnotify/includes/desktop/original/notice.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/desktop/original/success.png" afterPath="$PROJECT_DIR$/pnotify/includes/desktop/original/success.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/desktop/success.png" afterPath="$PROJECT_DIR$/pnotify/includes/desktop/success.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/github-icon.png" afterPath="$PROJECT_DIR$/pnotify/includes/github-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/le_happy_face_by_luchocas-32.png" afterPath="$PROJECT_DIR$/pnotify/includes/le_happy_face_by_luchocas-32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/le_happy_face_by_luchocas.png" afterPath="$PROJECT_DIR$/pnotify/includes/le_happy_face_by_luchocas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/source-screen.png" afterPath="$PROJECT_DIR$/pnotify/includes/source-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/buttonbg.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/buttonbg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/icon_color_arrow.gif" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/icon_color_arrow.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/menuhoverbg.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/menuhoverbg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_black_matte.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_black_matte.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_black_tie.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_black_tie.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_blitzer.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_blitzer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_cupertino.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_cupertino.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_dark_hive.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_dark_hive.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_dot_luv.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_dot_luv.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_eggplant.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_eggplant.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_excite_bike.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_excite_bike.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_flick.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_flick.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_hot_sneaks.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_hot_sneaks.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_humanity.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_humanity.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_le_frog.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_le_frog.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_mint_choco.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_mint_choco.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_overcast.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_overcast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_pepper_grinder.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_pepper_grinder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_smoothness.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_smoothness.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_south_street.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_south_street.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_start_menu.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_start_menu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_sunny.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_sunny.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_swanky_purse.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_swanky_purse.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_trontastic.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_trontastic.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_ui_dark.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_ui_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_ui_light.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_ui_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_windoze.png" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/images/theme_90_windoze.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/chocolat.css" afterPath="$PROJECT_DIR$/css/chocolat.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/common.css" afterPath="$PROJECT_DIR$/css/common.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/registration/first_application.css" afterPath="$PROJECT_DIR$/css/registration/first_application.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap-3.1.1.min.js" afterPath="$PROJECT_DIR$/js/bootstrap-3.1.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/easing.js" afterPath="$PROJECT_DIR$/js/easing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery-2.1.4.min.js" afterPath="$PROJECT_DIR$/js/jquery-2.1.4.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.chocolat.js" afterPath="$PROJECT_DIR$/js/jquery.chocolat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.hoverdir.js" afterPath="$PROJECT_DIR$/js/jquery.hoverdir.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/modernizr.custom.js" afterPath="$PROJECT_DIR$/js/modernizr.custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/move-top.js" afterPath="$PROJECT_DIR$/js/move-top.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/registration/first_application.js" afterPath="$PROJECT_DIR$/js/registration/first_application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/responsiveslides.min.js" afterPath="$PROJECT_DIR$/js/responsiveslides.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/.gitignore" afterPath="$PROJECT_DIR$/pnotify/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/COPYING" afterPath="$PROJECT_DIR$/pnotify/COPYING" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/README.md" afterPath="$PROJECT_DIR$/pnotify/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/bower.json" afterPath="$PROJECT_DIR$/pnotify/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/build-tools/COPYING" afterPath="$PROJECT_DIR$/pnotify/build-tools/COPYING" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/build-tools/README" afterPath="$PROJECT_DIR$/pnotify/build-tools/README" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/buildcustom.php" afterPath="$PROJECT_DIR$/pnotify/buildcustom.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/devnote-stable.css" afterPath="$PROJECT_DIR$/pnotify/devnote-stable.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/devnote.css" afterPath="$PROJECT_DIR$/pnotify/devnote.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/dist/pnotify.animate.js" afterPath="$PROJECT_DIR$/pnotify/dist/pnotify.animate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/dist/pnotify.brighttheme.css" afterPath="$PROJECT_DIR$/pnotify/dist/pnotify.brighttheme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/dist/pnotify.buttons.css" afterPath="$PROJECT_DIR$/pnotify/dist/pnotify.buttons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/dist/pnotify.buttons.js" afterPath="$PROJECT_DIR$/pnotify/dist/pnotify.buttons.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/dist/pnotify.callbacks.js" afterPath="$PROJECT_DIR$/pnotify/dist/pnotify.callbacks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/dist/pnotify.confirm.js" afterPath="$PROJECT_DIR$/pnotify/dist/pnotify.confirm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/dist/pnotify.css" afterPath="$PROJECT_DIR$/pnotify/dist/pnotify.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/dist/pnotify.desktop.js" afterPath="$PROJECT_DIR$/pnotify/dist/pnotify.desktop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/dist/pnotify.history.css" afterPath="$PROJECT_DIR$/pnotify/dist/pnotify.history.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/dist/pnotify.history.js" afterPath="$PROJECT_DIR$/pnotify/dist/pnotify.history.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/dist/pnotify.js" afterPath="$PROJECT_DIR$/pnotify/dist/pnotify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/dist/pnotify.mobile.css" afterPath="$PROJECT_DIR$/pnotify/dist/pnotify.mobile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/dist/pnotify.mobile.js" afterPath="$PROJECT_DIR$/pnotify/dist/pnotify.mobile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/dist/pnotify.nonblock.js" afterPath="$PROJECT_DIR$/pnotify/dist/pnotify.nonblock.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/beautify.js" afterPath="$PROJECT_DIR$/pnotify/includes/beautify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-apollo.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-apollo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-clj.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-clj.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-css.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-css.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-go.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-go.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-hs.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-hs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-lisp.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-lisp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-lua.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-lua.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-ml.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-ml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-n.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-n.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-proto.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-proto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-scala.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-scala.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-sql.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-sql.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-tex.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-tex.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-vb.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-vb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-vhdl.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-vhdl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-wiki.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-wiki.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-xq.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-xq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-yaml.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/lang-yaml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/prettify.css" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/prettify.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/prettify.js" afterPath="$PROJECT_DIR$/pnotify/includes/google-code-prettify/prettify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/style.css" afterPath="$PROJECT_DIR$/pnotify/includes/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/includes/themeswitcher/jquery.themeswitcher.min.js" afterPath="$PROJECT_DIR$/pnotify/includes/themeswitcher/jquery.themeswitcher.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/index.html" afterPath="$PROJECT_DIR$/pnotify/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/libtests/browserify/index.html" afterPath="$PROJECT_DIR$/pnotify/libtests/browserify/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/libtests/browserify/index.js" afterPath="$PROJECT_DIR$/pnotify/libtests/browserify/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/libtests/browserify/package.json" afterPath="$PROJECT_DIR$/pnotify/libtests/browserify/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/libtests/requirejs/index.html" afterPath="$PROJECT_DIR$/pnotify/libtests/requirejs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/package.json" afterPath="$PROJECT_DIR$/pnotify/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.animate.js" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.animate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.brighttheme.css" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.brighttheme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.buttons.css" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.buttons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.buttons.js" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.buttons.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.callbacks.js" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.callbacks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.confirm.js" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.confirm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.css" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.desktop.js" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.desktop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.history.css" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.history.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.history.js" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.history.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.js" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.material.css" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.material.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.mobile.css" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.mobile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.mobile.js" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.mobile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.nonblock.css" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.nonblock.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.nonblock.js" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.nonblock.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.reference.js" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.reference.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/src/pnotify.tooltip.js" afterPath="$PROJECT_DIR$/pnotify/src/pnotify.tooltip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pnotify/testing.html" afterPath="$PROJECT_DIR$/pnotify/testing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3layouts-License.txt" afterPath="$PROJECT_DIR$/w3layouts-License.txt" />
+    </list>
+    <ignored path="ride-web.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ride-web" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="first_application.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/registration/first_application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/registration/first_application.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/35795361-8978-43a5-ba41-1291aba78324/console.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1301" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ride-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ride-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ride-web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ride-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ride-web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ride-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ride-web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="registration" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0381e631-9e71-4a7e-a28b-34b3c6ed2c9a" name="Default" comment="" />
+      <created>1485634684099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1485634684099</updated>
+      <workItem from="1485634686828" duration="1455000" />
+      <workItem from="1485675995369" duration="1681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3136000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25377885" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/registration/first_application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/35795361-8978-43a5-ba41-1291aba78324/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/registration/first_application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
