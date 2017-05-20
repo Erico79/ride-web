@@ -28,7 +28,7 @@ var FirstApplication = {
     },
     initialize: function(formObj){
         $.ajax({
-            url: '//bodasquared.co.ke/boda/public/api/first-applications',
+            url: '//146.186.131.520/bodapublic/api/first-applications',
             type: 'POST',
             data: formObj.serialize(),
             dataType: 'json',
