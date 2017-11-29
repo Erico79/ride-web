@@ -28,7 +28,7 @@ var FirstApplication = {
     },
     initialize: function(formObj){
         $.ajax({
-            url: '//bodasquared.co.ke/boda/public/api/first-applications',
+            url: '//localhost/boda/public/api/first-applications',
             type: 'POST',
             data: formObj.serialize(),
             dataType: 'json',
@@ -45,7 +45,6 @@ var FirstApplication = {
                     FirstApplication.enableContent();
                     FirstApplication.resetFields(formObj);
                 }else if(!data.success){
-                    console.log(data.type);
                     if(data.type == 'warnings'){
                         // show the warnings in a pnotify
                         FirstApplication.loopWarnings(data);
